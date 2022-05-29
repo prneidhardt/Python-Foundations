@@ -1,2 +1,4 @@
 # Python-Foundations
-FoodHub Project
+Project includes two files:
+- Jupyter notebook with Python code
+- CSV file imported into notebook
