@@ -1,5 +1,4 @@
 # Python-Foundations
-- Project completed as part of Great Learning's Postgraduate Program - Data Science and Business Analytics
 - Project delivered in August 2021
 - Repository includes two files:
   - Jupyter notebook with Python code written for data analysis
